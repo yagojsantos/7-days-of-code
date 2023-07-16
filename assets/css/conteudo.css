@@ -1,0 +1,32 @@
+.container{
+    padding: 9.6rem 8rem;
+    text-align: center;
+    background-color: aqua;
+}
+.container__titulo{
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--cor-primaria);
+}
+.container__subtitulo{
+    font-size: 3.6rem;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+}
+.container__texto{
+    font-size: 2rem;
+    color: var(--cor-terciaria);
+}
+
+.principal .container__titulo{
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+.principal .container__subtitulo{
+    font-size: 4.8rem;
+    padding: 2.4rem 0 3.6rem 0;
+}
+.principal .container__texto{
+    max-width: 791px;
+    margin: 0 auto;
+}
