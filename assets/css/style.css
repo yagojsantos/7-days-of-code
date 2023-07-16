@@ -1,0 +1,14 @@
+@import url("./cabecalho.css");
+
+:root{
+   font-size: 62.5%;
+    --cor-primaria:  #8E2424;
+    --cor-secundaria:  #101828;
+    --cor-terciaria: #667085;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 400;
+}

@@ -1,0 +1,45 @@
+.cabecalho {
+    padding: 1.8rem 8rem;
+}
+
+.cabecalho__navegacao {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0.85rem 0;
+}
+
+.cabacalho__logo {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+.logo__img {
+    width: 27px;
+    height: 27px;
+}
+
+.logo__texto {
+    font-size: 1.8rem;
+    color: #3A404E;
+    font-weight: 500;
+}
+
+.cabecalho__lista-menu {
+    display: flex;
+    gap: 3.2rem;
+}
+
+.lista-menu__link {
+    color: var(--cor-terciaria);
+    font-weight: 500;
+    text-decoration: none;
+}
+.btn{
+    color: #FFFFFF;
+    padding: 1rem 1.8rem;
+    background-color: var(--cor-primaria);
+    border-radius: 8px;
+}
