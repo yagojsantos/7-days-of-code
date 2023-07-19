@@ -102,3 +102,38 @@
     font-weight:500;
     color: var(--cor-terciaria);
 }
+.colaboradores{
+    padding: 6.4rem 17.6rem 9.6rem;
+}
+.colaboradores .container__titulo{
+    font-weight: 600;
+}
+.colaboradores .container__subtitulo{
+    font-weight:500;
+    letter-spacing: -0.72px;
+    margin: 1.6rem 0 3.2rem;
+}
+.colaborador{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.6rem;
+}
+.colaborador__img{
+    width:56px;
+    height:56px;
+}
+.colaborador__info{
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+.colaborador__nome{
+    font-weight: 500;
+    color: var(--cor-secundaria);
+}
+.colaborador__cargo{
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: var(--cor-terciaria);
+}
