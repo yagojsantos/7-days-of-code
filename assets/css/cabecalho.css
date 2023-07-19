@@ -43,3 +43,7 @@
     background-color: var(--cor-primaria);
     border-radius: 8px;
 }
+.btn:hover{
+    background-color: #8f4646;
+    cursor: pointer;
+}

@@ -1,5 +1,6 @@
 @import url("./cabecalho.css");
 @import url("./conteudo.css");
+@import url("./rodape.css");
 
 :root{
    font-size: 62.5%;

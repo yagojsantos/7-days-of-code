@@ -61,7 +61,7 @@
 }
 .vagas .container__titulo{
     margin: 0.4rem 1.2rem;
-    border-radius: 1.6rem;
+    border-radius: 16px;
     background: rgba(142, 36, 36, 0.05);
 }
 .vagas .container__subtitulo{

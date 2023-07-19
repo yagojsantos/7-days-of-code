@@ -1,0 +1,23 @@
+.rodape .container__subtitulo{
+    letter-spacing: -0.72px;
+}
+.rodape .container__texto{
+    margin: 2rem 0 4rem;
+}
+.rodape__campo{
+    border-radius: 8px;
+    border:1px solid #D0D5DD;
+    padding: 1.2rem 1.4rem 1.2rem 1.6rem;
+    margin-right: 1.6rem;
+    width: 330px;
+    color: var(--cor-terciaria);
+}
+.btn--rodape{
+    padding: 1.2rem 2rem;
+    font-weight: 500;
+    border: none;
+}
+.rodape__copyright{
+    margin-top: 3.2rem;
+    color: #98A2B3;
+}
