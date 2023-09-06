@@ -3,7 +3,7 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | **Site Vagas**
 | :label: Tecnologias | html, css
 | :rocket: URL |  https://yagojsantos.github.io/7-days-of-code/
 | :fire: Desafio | https://7daysofcode.io/matricula/html-css
